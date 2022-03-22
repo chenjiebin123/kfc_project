@@ -1,0 +1,65 @@
+{
+    "address": [
+        {
+            "userId": "1635602216665",
+            "name": "陈定位",
+            "phone": "13131313133",
+            "area": "山西省/大同市/平城区",
+            "detialArea": "萨达",
+            "mail": "123123",
+            "defaultAddress": false,
+            "addId": 1637218323570
+        },
+        {
+            "userId": "1635602216665",
+            "name": "陈定位",
+            "phone": "13131313133",
+            "area": "河北省/唐山市/路南区",
+            "detialArea": "大同市",
+            "mail": "123123",
+            "defaultAddress": false,
+            "addId": 1637218395243
+        },
+        {
+            "userId": "1635602216665",
+            "name": "陈定位",
+            "phone": "13131313133",
+            "area": "河北省/邯郸市/邯山区",
+            "detialArea": "大同市",
+            "mail": "123123",
+            "defaultAddress": true,
+            "addId": 1637218401439
+        },
+        {
+            "userId": "1635602216665",
+            "name": "陈杰彬",
+            "phone": "13131313131",
+            "area": "江苏省/南京市/玄武区",
+            "detialArea": "阿三大苏打",
+            "mail": "123123",
+            "defaultAddress": false,
+            "addId": 1637218436710
+        },
+        {
+            "userId": "1637233988944",
+            "name": "陈杰彬",
+            "phone": "13794149434",
+            "area": "辽宁省/沈阳市/沈河区",
+            "detialArea": "东门",
+            "mail": "123123",
+            "defaultAddress": true,
+            "addId": 1637234189848
+        },
+        {
+            "userId": "1637233988944",
+            "name": "chen",
+            "phone": "12312312312",
+            "area": "江西省/景德镇市/珠山区",
+            "detialArea": "小学",
+            "mail": "123123",
+            "defaultAddress": false,
+            "addId": 1637234234213
+        }
+    ],
+    "total": 6
+}
